@@ -14,7 +14,7 @@
 
 ### 项目工作流
 
-运行智能合约测试    `make test`
-编译智能合约        `make compile`
-部署智能合约        `make deploy`
-运行 nuxt          `make dev`
+> 运行智能合约测试    `make test`
+> 编译智能合约        `make compile`
+> 部署智能合约        `make deploy`
+> 运行 nuxt          `make dev`
