@@ -15,7 +15,7 @@ test:
 	@npm run test
 
 push:
-	@git push origin dev
+	@git push origin master
 
 help:
 	@echo "   \033[35mmake\033[0m \033[1m命令使用说明\033[0m"
